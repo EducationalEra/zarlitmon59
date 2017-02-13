@@ -67,7 +67,7 @@
 		        </li>
 	        </ul>
        	</div>
-      <div role="tabpanel" class="tab-pane active" id="menu2">
+      <div role="tabpanel" class="tab-pane" id="menu2">
 	    	<h3><a href="./2/6_klas.html">6 клас</a></h3>
             <ul class="articles" type="disc">
 		        <li class="chapter " data-level="1" data-path="2/vstup.html">
@@ -132,7 +132,7 @@
 		        </li>
 		            </ul>
 		        </div>
-        <div role="tabpanel" class="tab-pane active" id="menu3">
+        <div role="tabpanel" class="tab-pane" id="menu3">
 	    	<h3><a href="./3/7_klas.html">7 клас</a></h3>
             <ul class="articles" type="disc">
 		        <li class="chapter " data-level="1" data-path="3/vstup.html">
@@ -197,8 +197,8 @@
 		        </li>
 		    </ul>
 		</div>
-		<div role="tabpanel" class="tab-pane active" id="menu4">
-	    	<h3><a href="./4/8_klas.html">8 Клас</a></h3>
+		<div role="tabpanel" class="tab-pane" id="menu4">
+	    	<h3><a href="./4/8_klas.html">8 клас</a></h3>
             <ul class="articles" type="disc">
 		        <li class="chapter " data-level="1" data-path="4/vstup.html">
 		                <a href="4/vstup.html">
@@ -256,8 +256,8 @@
 		        </li>
 		            </ul>
         </div>
-        <div role="tabpanel" class="tab-pane active" id="menu5">
-	    	<h3><a href="./5/9_klas.html">9 Клас</a></h3>
+        <div role="tabpanel" class="tab-pane" id="menu5">
+	    	<h3><a href="./5/9_klas.html">9 клас</a></h3>
             <ul class="articles" type="disc">
 		        <li class="chapter " data-level="1" data-path="5/vstup.html">
 		                <a href="5/vstup.html">
@@ -309,7 +309,7 @@
 		        </li>
 		            </ul>
 		    </div>
-        <div role="tabpanel" class="tab-pane active" id="menu6">
+        <div role="tabpanel" class="tab-pane" id="menu6">
 	    	<h3><a href="./6/dodatok1.html">Додатки</a></h3>
             <ul class="articles" type="disc">
 		        <li class="chapter " data-level="1" data-path="6/5_klas.html">
